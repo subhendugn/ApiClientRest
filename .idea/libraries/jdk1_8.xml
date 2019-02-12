@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jdk1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/java-json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/log4j/log4j.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jackson-all-1.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/gson-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk1.8.0_172" />
+      <root url="jar://$USER_HOME$/Downloads/java-json.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_172" recursive="false" type="SOURCES" />
+  </library>
+</component>

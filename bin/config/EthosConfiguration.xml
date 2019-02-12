@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+
+<!DOCTYPE EthosConfiguration PUBLIC '-//Sun Microsystems, Inc.//DTD J2EE Application 1.2//EN' 'http://java.sun.com/j2ee/dtds/application_1_2.dtd'>
+
+<EthosConfiguration>
+    <EthosBaseURI>https://integrate.elluciancloud.com/</EthosBaseURI>
+
+    <!--add space in code when storing into variable-->
+    <AuthenticationScheme>Bearer</AuthenticationScheme>
+    <ApiKey>f794b4c1-96de-4726-b134-7d8ac5d55259</ApiKey>
+
+    <ResponseMode>JSON</ResponseMode>
+</EthosConfiguration>

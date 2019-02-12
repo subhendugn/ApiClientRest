@@ -1,0 +1,2 @@
+Log4j 1.2.8 with custom modifications to allow overriding of configuration
+http://jakarta.apache.org/log4j
